@@ -3,7 +3,7 @@
     "step": {
       "enter_user_id": {
         "title": "MagentaTV: {name} - Configure User Id",
-        "description": "For Homeassistant MagentaTV to connect to your media receiver you will need to provide your user id.\n Follow these steps to find your personal user id:\n 1. Navigate to [web.magentatv.de/einstellungen/system](https://web.magentatv.de/einstellungen/system)\n 2. Login using the same account that the receiver is using\n 3. Copy your `ANID` from the system info tab and paste it into the field below",
+        "description": "For Homeassistant MagentaTV to connect to your media receiver you will need to provide your user id.\n Follow these steps to find your personal user id:\n 1. Navigate to [player.telekomtvgo.hu/settings](player.telekomtvgo.hu/settings)\n 2. Login using the same account that the receiver is using\n 3. Copy your `ANID` from the system info tab and paste it into the field below",
         "data": {
           "username": "User Id (ANID)"
         }
