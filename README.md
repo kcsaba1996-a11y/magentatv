@@ -85,7 +85,7 @@ Check out the Configuration section below for configuration related to setting a
 
 1. Get your Telekom user id
    This id is required for paring the integration with your receiver. It therefore has to belong to the same account, the receiver is running on.
-    - Go to [web.magentatv.de/einstellungen/system](https://web.magentatv.de/einstellungen/system)
+    - Go to [player.telekomtvgo.hu/settings](https://player.telekomtvgo.hu/settings)
     - Login
     - Copy your `ANID` from the system info [Screeenshot](https://i.imgur.com/wY0u7JL.png)
 1. Configure a receiver
